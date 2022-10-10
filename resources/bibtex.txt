@@ -1,0 +1,6 @@
+@article{zhou2022aris,
+  author = {Zhou, Qinye and Li, Ziyi and Xie, Weidi and Zhang, Xiaoyun and Zhang, Ya and Wang, Yanfeng},
+  title = {A Simple Plugin for Transforming Images to Arbitrary Scales},
+  journal = {arXiv:2210.03417},
+  year = {2022}
+}
